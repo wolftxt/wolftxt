@@ -1,4 +1,5 @@
-# 👋 Hi, I'm David Wolf
+<h1 align="center">👋 Hi, I'm David Wolf</h1>
+<p align="center">Student | Software Engineer | Chemistry Enthusiast | Volleyball player</p>
 🎓 I'm a high school student passionate about game development and backend engineering. I build games in Java and enjoy designing backend systems using Java Spring.
 
 ---
