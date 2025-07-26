@@ -24,4 +24,4 @@ A multi language interactive word association game.
 ## 🏆 Competitions
 
 - 🥇 **1st place** at [Astro Pi Hackathon – Brno24](https://astropi-hackathon.org/minule-rocniky/brno24/)
-- **7th place nationally** in the national round of Soutěž v programování – [Results PDF](https://programuj.si/vysledky/2025/UK/Vysledky_soutez.pdf)
+- **7th place** in the national round of Soutěž v programování – [Results PDF](https://programuj.si/vysledky/2025/UK/Vysledky_soutez.pdf)
