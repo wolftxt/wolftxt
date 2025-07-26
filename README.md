@@ -1,3 +1,4 @@
+# 👋 Hi, I'm David Wolf
 🎓 I'm a high school student passionate about game development and backend engineering. I build games in Java and enjoy designing backend systems using Java Spring.
 
 ---
