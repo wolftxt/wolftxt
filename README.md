@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm David Wolf</h1>
+<h1 align="center">David Wolf</h1>
 <p align="center">Student | Software Engineer | Chemistry Enthusiast | Volleyball player</p>
 🎓 I'm a high school student passionate about game development and backend engineering. I build games in Java and enjoy designing backend systems using Java Spring.
 
@@ -23,5 +23,5 @@ A multi language interactive word association game.
 
 ## 🏆 Competitions
 
-- 🥇 **1st place** at [Astro Pi Hackathon – Brno24](https://astropi-hackathon.org/minule-rocniky/brno24/)
+- **1st place** at [Astro Pi Hackathon – Brno24](https://astropi-hackathon.org/minule-rocniky/brno24/)
 - **7th place** in the national round of Soutěž v programování – [Results PDF](https://programuj.si/vysledky/2025/UK/Vysledky_soutez.pdf)
