@@ -1,5 +1,5 @@
 <h1 align="center">David Wolf</h1>
-<p align="center">Student | Software Engineer | Chemistry Enthusiast | Volleyball player</p>
+<p align="center">Student | Software Engineer | Chemistry Enthusiast</p>
 🎓 I'm a high school student passionate about game development and backend engineering. I build games in Java and enjoy designing backend systems using Java Spring.
 
 ---
