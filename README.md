@@ -1,11 +1,11 @@
 <h1 align="center">David Wolf</h1>
 <p align="center">Student | Software Engineer | Chemistry Enthusiast</p>
-🎓 I'm a high school student passionate about game development and backend engineering. I build games in Java and enjoy designing backend systems using Java Spring.
+I'm a high school student passionate about game development and backend engineering. I build games in Java and enjoy designing backend systems using Java Spring.
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Java**: Spring, Swing, Maven, Ant
+- **Java**: Spring boot, Swing, Maven, Ant
 - **Python**
 - **Web**: HTML, CSS, JavaScript
 
