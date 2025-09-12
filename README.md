@@ -11,6 +11,10 @@ I'm a high school student passionate about game development and backend engineer
 
 ---
 
+## 🤝 Open source contributions
+
+[<img src="assets/netbeans.svg" height="100px">](https://github.com/apache/netbeans/pulls?q=author%3Awolftxt)
+
 ## 🚀 Projects
 
 ### 🎮 [GameLauncher](https://github.com/wolftxt/GameLauncher)
