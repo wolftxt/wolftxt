@@ -1,31 +1,30 @@
 <h1 align="center">David Wolf</h1>
-<p align="center">Student | Software Engineer | Chemistry Enthusiast</p>
-I'm a high school student passionate about game development and backend engineering. I build games in Java and enjoy designing backend systems using Java Spring.
+<p align="center">Student | Software Engineer | Biochemistry Enthusiast</p>
+I'm a BSc Data Science student specializing in Java and Python. I have hands-on experience with frameworks like Spring Boot, and I’ve contributed to open source projects like NetBeans.
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Java**: Spring boot, Swing, Maven, Ant
+## Technologies & Tools
+- **Java**: Spring boot, Maven
 - **Python**
-- **Web**: HTML, CSS, JavaScript
 
 ---
 
-## 🤝 Open source contributions
+## Open source contributions
 
 [<img src="assets/netbeans.svg" height="75px">](https://github.com/apache/netbeans/pulls?q=author%3Awolftxt)
 
-## 🚀 Projects
+## Projects
 
-### 🎮 [GameLauncher](https://github.com/wolftxt/GameLauncher)
+### [GameLauncher](https://github.com/wolftxt/GameLauncher)
 A lightweight desktop tool for downloading and launching my Java games.
 
-### ❓ [What does a ___ do?](https://verb-word-game.onrender.com/)
+### [What does a ___ do?](https://verb-word-game.onrender.com/)
 A multi language interactive word association game.
 
 ---
 
-## 🏆 Competitions
+## Competitions
 
 - **1st place** at [Astro Pi Hackathon – Brno24](https://astropi-hackathon.org/minule-rocniky/brno24/)
 - **7th place** in the national round of Soutěž v programování – [Results PDF](https://programuj.si/vysledky/2025/UK/Vysledky_soutez.pdf)
