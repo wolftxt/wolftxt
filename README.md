@@ -16,11 +16,9 @@ I'm a BSc Data Science student specializing in Java and Python. I have hands-on 
 
 ## Projects
 
-### [GameLauncher](https://github.com/wolftxt/GameLauncher)
-A lightweight desktop tool for downloading and launching my Java games.
-
-### [What does a ___ do?](https://verb-word-game.onrender.com/)
-A multi language interactive word association game.
+### [Magion](https://github.com/wolftxt/Magion)
+Program I ran on the ISS. Calculated the ISS speed using photos of Earth within 1.5% of the actual value.
+See [full project paper](https://github.com/wolftxt/Magion/blob/main/documentation.pdf).
 
 ---
 
